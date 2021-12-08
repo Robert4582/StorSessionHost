@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\SessionHost.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\SessionHost.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\SessionHost.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\SessionHost.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\SessionHost.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\ref\SessionHost.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\bin\Debug\net5.0\SessionHost.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\ref\SessionHost.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionHost\SessionHost\obj\Debug\net5.0\SessionHost.genruntimeconfig.cache
